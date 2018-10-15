@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=0-GND Pin=P3-5
+Removed Pin From Net: NetName=0-GND Pin=P3-6
+Change Component Footprint: Designator=P3 Old Footprint=HDR2X3_CEN New Footprint=HDR2X2
+Change Component Comment : Designator=P3 Old Comment=Header 6 New Comment=Header 4

@@ -1,0 +1,12 @@
+Added Component: Designator=5V(TEST PAD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=GND(TEST PAD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=V+(TEST PAD)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=0-5V Pin=5V-1
+Added Pin To Net: NetName=0-GND Pin=GND-1
+Added Pin To Net: NetName=0-V+ Pin=V+-1
+Added Member To Class: ClassName=AA BMS Slave Member=Component 5V EXPOSED SOLDER PAD
+Added Member To Class: ClassName=AA BMS Slave Member=Component GND EXPOSED SOLDER PAD
+Added Member To Class: ClassName=AA BMS Slave Member=Component V+ EXPOSED SOLDER PAD

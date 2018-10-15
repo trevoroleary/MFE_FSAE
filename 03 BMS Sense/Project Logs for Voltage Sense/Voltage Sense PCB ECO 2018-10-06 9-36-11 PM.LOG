@@ -1,0 +1,29 @@
+Change Component Comment : Designator=V12 Old Comment=THERM1 New Comment=V12
+Change Component Comment : Designator=V11 Old Comment=THERM2 New Comment=V11
+Change Component Comment : Designator=V10 Old Comment=THERM3 New Comment=V10
+Change Component Comment : Designator=V9 Old Comment=THERM4 New Comment=V9
+Change Component Comment : Designator=V8 Old Comment=THERM5 New Comment=V8
+Change Component Comment : Designator=TEMP 5 Old Comment=V7 New Comment=TEMP5
+Change Component Comment : Designator=TEMP4 Old Comment=V8 New Comment=TEMP4
+Change Component Comment : Designator=TEMP3 Old Comment=V9 New Comment=TEMP3
+Change Component Comment : Designator=TEMP2 Old Comment=V10 New Comment=TEMP2
+Change Component Comment : Designator=TEMP1 Old Comment=V11 New Comment=TEMP1
+Change Component Comment : Designator=V7 Old Comment=V12 New Comment=V7
+Change Component Designator: OldDesignator=TEMP1 NewDesignator=J7
+Change Component Designator: OldDesignator=TEMP2 NewDesignator=J8
+Change Component Designator: OldDesignator=TEMP3 NewDesignator=J9
+Change Component Designator: OldDesignator=TEMP4 NewDesignator=J10
+Change Component Designator: OldDesignator=TEMP 5 NewDesignator=J11
+Change Component Designator: OldDesignator=V0 NewDesignator=J18
+Change Component Designator: OldDesignator=V1 NewDesignator=J17
+Change Component Designator: OldDesignator=V2 NewDesignator=J16
+Change Component Designator: OldDesignator=V3 NewDesignator=J15
+Change Component Designator: OldDesignator=V4 NewDesignator=J14
+Change Component Designator: OldDesignator=V5 NewDesignator=J13
+Change Component Designator: OldDesignator=V6 NewDesignator=J12
+Change Component Designator: OldDesignator=V7 NewDesignator=J6
+Change Component Designator: OldDesignator=V8 NewDesignator=J5
+Change Component Designator: OldDesignator=V9 NewDesignator=J4
+Change Component Designator: OldDesignator=V10 NewDesignator=J3
+Change Component Designator: OldDesignator=V11 NewDesignator=J2
+Change Component Designator: OldDesignator=V12 NewDesignator=J1

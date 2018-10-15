@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=0-TEMP3 Pin=P4-10
+Removed Pin From Net: NetName=0-TEMP2 Pin=P4-11
+Removed Pin From Net: NetName=0-TEMP1 Pin=P4-12
+Added Pin To Net: NetName=0-TEMP1 Pin=P4-10
+Added Pin To Net: NetName=0-TEMP3 Pin=P4-11
+Added Pin To Net: NetName=0-TEMP2 Pin=P4-12
